@@ -1,9 +1,9 @@
 ---
 page_type: sample
 languages:
-- csharp
+- html
 products:
-- dotnet
+- Power BI
 description: "Power BI material to get you started in creating & embedding template apps"
 urlFragment: "powerbi-template-apps-samples"
 ---
