@@ -30,6 +30,7 @@ Outline the file contents of the repository. It helps users navigate the codebas
 ## Prerequisites
 
 To use the redirect code examples you will need to use the publisherID & OfferID obtained when creating a new offerID in [Cloud Partner Portal](https://cloudpartner.azure.com).
+
 To publish a template app to the Power BI service and AppSource, you must meet the requirements for [becoming a Cloud Marketplace Publisher](https://docs.microsoft.com/azure/marketplace/become-publisher).
 
 ## Setup
