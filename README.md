@@ -2,10 +2,12 @@
 page_type: sample
 languages:
 - html
+- js
+- csharp
 products:
 - Power BI
-description: "Power BI material to get you started in creating & embedding template apps"
-urlFragment: "powerbi-template-apps-samples"
+description: "Power BI material to get you started in creating & distributing template apps"
+urlFragment: "powerbi-template-apps-examples"
 ---
 
 # Power BI template apps help material 
@@ -18,25 +20,16 @@ Some of the Samples are in pbix file format and require using powerBI desktop in
 
 Outline the file contents of the repository. It helps users navigate the codebase, build configuration and any related assets.
 
-| File/folder       | Description                                |
-|-------------------|--------------------------------------------|
-| `src`             | Sample source code.                        |
-| `.gitignore`      | Define what to ignore at commit time.      |
-| `CHANGELOG.md`    | List of changes to the sample.             |
-| `CONTRIBUTING.md` | Guidelines for contributing to the sample. |
-| `README.md`       | This README file.                          |
-| `LICENSE`         | The license for the sample.                |
-
-## Prerequisites
-
-To use the redirect code examples you will need to use the publisherID & OfferID obtained when creating a new offerID in [Cloud Partner Portal](https://cloudpartner.azure.com).
-
-To publish a template app to the Power BI service and AppSource, you must meet the requirements for [becoming a Cloud Marketplace Publisher](https://docs.microsoft.com/azure/marketplace/become-publisher).
+| File/folder           | Description                                                                                                           |
+|-----------------------|-----------------------------------------------------------------------------------------------------------------------|
+| `Code Snippets`       | Sample source code to embed in your websites for your users to gain quick access to your application.                 |
+| `Developer Samples`   | Sample projects containing runnable code for developers to interact with various Template apps features.              |
+| `README.md`           | This README file.                                                                                                     |
+| `LICENSE`             | The license for the sample.                                                                                           |
 
 ## Setup
 
-In order to use the sample code please follow the comments in the source code.
-
+In order to use the sample code please follow the comments in the source code or README.md file in every sample directory.
 
 ## Contributing
 
