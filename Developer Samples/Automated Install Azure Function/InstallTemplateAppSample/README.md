@@ -48,7 +48,7 @@ Before you start distributing your template app using automated install, make su
 
 Once you've prepared your application and its ready to be installed by your users, save the following information for the next steps:
 
-1. *App ID*, *Package Key*, *Owner ID* as they appear in the [installation URL]() when the app was created.
+1. *App ID*, *Package Key*, *Owner ID* as they appear in the [installation URL](https://docs.microsoft.com/en-us/power-bi/connect-data/service-template-apps-create) when the app was created.
 
     Same link can be retrieved using 'Get Link' in the app's [Release Management](https://docs.microsoft.com/en-us/power-bi/connect-data/service-template-apps-create#manage-the-template-app-release).
 
